@@ -2,6 +2,8 @@
 **Music Library** is a front-end app(*SPA*) for creating and managing music albums. The app allows visitors to browse through the given catalog. Users may 
 register with an **email** and **password**, which allows them full access to the site's features. They can also **edit** or **delete** a created album card.
 
+![alt text](image-1.png)
+
 ## Pages and Permissions
 
 - All users
@@ -21,6 +23,29 @@ register with an **email** and **password**, which allows them full access to th
 
 ---
 
+## Getting Started
+
+Follow these simple steps to get started:
+
+1.**Clone the repository on your local machine**
+
+```
+git clone https://github.com/username/Softuni-Svetlina-Music-Library.git
+```
+
+2. **Install the dependencies**:
+
+```
+npm install npm
+```
+
+3. **Start the app**:
+
+```
+npm start
+```
+
+   ---
 ## REST API
 
 Once the application is started, the REST API is available at:
@@ -53,4 +78,4 @@ The endpoint definitions are as follows:
   npm run test
 
 3.Once this is finished, you should receive something like this:
-C:\Users\Miro\Desktop\10.Software-Project-Documentation/Tests.png
+![alt text](image.png)
