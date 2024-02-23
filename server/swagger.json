@@ -216,7 +216,7 @@
         ],
         "parameters": [
           {
-            "name": ".id",
+            "name": "id",
             "in": "path",
             "description": "ID of album to update",
             "required": true,
@@ -256,7 +256,7 @@
         "tags": [
           "Music Library Albums"
         ],
-        "description": "...",
+        "description": "Delete an album",
         "security": [
           {
             "token": []
@@ -266,7 +266,7 @@
           {
             "name": "id",
             "in": "path",
-            "description": "...",
+            "description": "ID of album to delete",
             "required": true,
             "type": "string"
           }
