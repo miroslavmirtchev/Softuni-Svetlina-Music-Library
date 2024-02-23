@@ -2,6 +2,8 @@
 **Music Library** is a front-end app(*SPA*) for creating and managing music albums. The app allows visitors to browse through the given catalog. Users may 
 register with an **email** and **password**, which allows them full access to the site's features. They can also **edit** or **delete** a created album card.
 
+![alt text](image-1.png)
+
 ## Pages and Permissions
 
 - All users
@@ -53,4 +55,4 @@ The endpoint definitions are as follows:
   npm run test
 
 3.Once this is finished, you should receive something like this:
-C:\Users\Miro\Desktop\10.Software-Project-Documentation/Tests.png
+![alt text](image.png)
