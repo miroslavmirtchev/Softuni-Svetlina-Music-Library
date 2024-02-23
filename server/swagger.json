@@ -203,7 +203,7 @@
         }
       }
     },
-    "...": {
+    "/data/albums/{id}": {
       "put": {
         "tags": [
           "Music Library Albums"
@@ -216,11 +216,11 @@
         ],
         "parameters": [
           {
-            "name": "...",
+            "name": ".id",
             "in": "path",
             "description": "ID of album to update",
             "required": true,
-            "type": "..."
+            "type": "string"
           },
           {
             "name": "album",
