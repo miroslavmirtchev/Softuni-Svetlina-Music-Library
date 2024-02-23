@@ -38,7 +38,8 @@ git clone https://github.com/username/Softuni-Svetlina-Music-Library.git
 3. **Start the app**:
 
    npm start
-   
+
+   ---
 ## REST API
 
 Once the application is started, the REST API is available at:
