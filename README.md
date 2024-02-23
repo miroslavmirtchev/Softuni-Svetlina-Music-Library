@@ -23,6 +23,22 @@ register with an **email** and **password**, which allows them full access to th
 
 ---
 
+## Getting Started
+
+Follow these simple steps to get started:
+
+1.**Clone the repository on your local machine**
+
+git clone https://github.com/username/Softuni-Svetlina-Music-Library.git
+
+2. **Install the dependencies**:
+
+   npm install npm
+
+3. **Start the app**:
+
+   npm start
+   
 ## REST API
 
 Once the application is started, the REST API is available at:
