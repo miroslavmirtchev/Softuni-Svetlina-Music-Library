@@ -78,4 +78,4 @@ The endpoint definitions are as follows:
   npm run test
 
 3.Once this is finished, you should receive something like this:
-![alt text](image.png)
+![alt text](image-2.png)
