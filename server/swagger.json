@@ -284,14 +284,14 @@
         "tags": [
           "Music Library Albums"
         ],
-        "description": "...", 
+        "description": "Get an album by ID", 
         "parameters": [
           {
-            "name": "{name}",
+            "name": "{id}",
             "in": "path",
-            "description": "(description)",
+            "description": "(ID of album to get)",
             "required": true,
-            "type": "(type)"
+            "type": "(string)"
           }
         ],
         "responses": {
