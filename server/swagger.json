@@ -156,7 +156,7 @@
         "tags": [
           "Music Library Albums"
         ],
-        "description": "...",
+        "description": "Create a new album",
         "security": [
           {
             "token": []
@@ -166,24 +166,24 @@
           {
             "name": "album",
             "in": "body",
-            "description": "...",
+            "description": "Album object that needs to be added",
             "required": true,
             "schema": {
               "type": "object",
               "properties": {
-                "...": {
+                "singer": {
                   "type": "string"
                 },
-                "...": {
+                "album": {
                   "type": "string"
                 },
-                "...": {
+                "imageUrl": {
                   "type": "string"
                 },
-                "...": {
+                "label": {
                   "type": "string"
                 },
-                "...": {
+                "sales": {
                   "type": "string"
                 }
               }
@@ -287,9 +287,9 @@
         "description": "Get an album by ID", 
         "parameters": [
           {
-            "name": "{id}",
+            "name": "id",
             "in": "path",
-            "description": "(ID of album to get)",
+            "description": "ID of album to get",
             "required": true,
             "type": "(string)"
           }
