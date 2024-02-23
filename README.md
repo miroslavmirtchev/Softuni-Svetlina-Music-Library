@@ -29,15 +29,21 @@ Follow these simple steps to get started:
 
 1.**Clone the repository on your local machine**
 
+```
 git clone https://github.com/username/Softuni-Svetlina-Music-Library.git
+```
 
 2. **Install the dependencies**:
 
-   ```npm install npm```
+```
+npm install npm
+```
 
 3. **Start the app**:
 
-   ```npm start```
+```
+npm start
+```
 
    ---
 ## REST API
